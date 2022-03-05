@@ -1,0 +1,11 @@
+Assignments/
+ICPC/
+Slides/
+*.pbix
+*.jpg
+*.pdf
+*.in
+*.out
+*.diff
+*.tar
+*.json

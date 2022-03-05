@@ -1,0 +1,43 @@
+source: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+
+-- root The root 
+/
+
+-- present wording directory : provides the absolute path from the root. 
+  $ pwd
+
+-- long listing : provides the list of files in a directory
+  $ ls
+
+-- change directory
+  $ cd
+
+-- make directory
+  $ mkdir
+
+-- rmeove directory : can only be used to delete an empty directory
+  $ rmdir
+
+-- remove 
+  $ rm
+
+- touch
+  $touch
+
+-- manual
+  $man
+
+-- copy
+  $ cp 
+
+-- move
+-- accepts 2 arguments
+--  1) what you want to move
+--  2) where you want to move it to
+
+  $ mv 
+
+-- locate
+  $ locate
+
+

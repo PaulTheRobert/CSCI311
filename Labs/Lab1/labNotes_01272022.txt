@@ -1,0 +1,24 @@
+Notes from in lab 01/27/2022
+
+
+1. download all the files from the lab and save them in you local CS311 dir.
+2. extract everythin from the tar files
+    
+    
+    $ tar -xvf filename.tar
+
+
+3. Check the makefile for the project structure, if provided. Use the make file to compile and excutable
+
+    $ make lab_1
+
+4. run a single test at a time using runTests2
+    
+    $ ../runTests2 a.out Tests/ 1
+
+5. run all the tests using runTest
+
+    $ ../runTests a.out Tests/ 
+
+    
+    
